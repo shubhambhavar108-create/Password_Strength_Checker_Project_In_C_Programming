@@ -81,10 +81,7 @@ int main()
     printf("        Thank You For Using The Project         \n");
     printf("-------------------------------------------------\n");
     printf("Created By :\n");
-    printf("- Abhijeet\n");
     printf("- Shubham\n");
-    printf("- Archit\n");
-    printf("- Yuvraj\n");
     printf("\n=================================================\n");
 
     return 0;
